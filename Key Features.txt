@@ -1,0 +1,1 @@
+Lets user play Rock Paper Scissors against computer. Moreover, let them track their score 
